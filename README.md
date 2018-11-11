@@ -2,4 +2,5 @@
 The One Where Eric Puts the Sudoku Solving Program
 
 displaysudoku.py
+
 A script that writes an HTML file that displays a sudoku board.
